@@ -96,14 +96,17 @@ desktop-cleaner-tool/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/desktop-cleaner-tool.git
-   cd desktop-cleaner-tool
+   git clone https://github.com/strategysamuel/desktop-cleaner-automation.git
+cd desktop-cleaner-automation
+
    ```
 
 2. **Create a virtual environment** (recommended)
    ```bash
    python -m venv venv
-   venv\Scripts\activate  # On Windows
+venv\Scripts\activate   # Windows
+source venv/bin/activate   # Mac/Linux
+
    ```
 
 3. **Install dependencies**
