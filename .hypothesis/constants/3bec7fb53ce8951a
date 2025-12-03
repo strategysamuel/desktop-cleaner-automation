@@ -1,0 +1,4 @@
+# file: D:\SAMUEL\Kiro-Projects\desktop-cleaner-tool\src\scanner.py
+# hypothesis_version: 6.148.5
+
+['.', 'Desktop', 'Documents', 'Images', 'Installers', 'Others', 'PDF', 'Videos', 'ZIPs', 'desktop.ini', 'nt']

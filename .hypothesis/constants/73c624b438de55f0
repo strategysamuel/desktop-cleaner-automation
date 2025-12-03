@@ -1,0 +1,4 @@
+# file: D:\SAMUEL\Kiro-Projects\desktop-cleaner-tool\src\categorizer.py
+# hypothesis_version: 6.148.5
+
+['.7z', '.avi', '.bmp', '.dmg', '.doc', '.docx', '.exe', '.flv', '.gif', '.gz', '.ico', '.jpeg', '.jpg', '.mkv', '.mov', '.mp4', '.msi', '.odt', '.pdf', '.pkg', '.png', '.ppt', '.pptx', '.rar', '.rtf', '.svg', '.tar', '.txt', '.webm', '.webp', '.wmv', '.xls', '.xlsx', '.zip', 'Documents', 'Images', 'Installers', 'Others', 'PDF', 'Videos', 'ZIPs']
